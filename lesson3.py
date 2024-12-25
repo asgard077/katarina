@@ -1,0 +1,2 @@
+ad="Fuad"
+print(ad)

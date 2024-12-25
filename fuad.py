@@ -1,0 +1,1 @@
+print("bugun biz git dersi kecdik")
